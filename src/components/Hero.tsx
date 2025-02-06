@@ -5,7 +5,7 @@ export const Hero = () => {
     <section className="min-h-screen flex items-center justify-center bg-dark text-white p-4">
       <div className="max-w-4xl mx-auto text-center">
         <h1 className="text-4xl md:text-6xl font-bold mb-6">
-          Navigating the xxx
+          Navigating the yyyy
           <span className="text-neon"> digital landscape </span>
           for success
         </h1>
